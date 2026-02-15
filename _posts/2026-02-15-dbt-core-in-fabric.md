@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Etiam
-description: Feugiat amet tempus
+title: Running `dbt-core` in Microsoft Fabric
+description: Working around current limitations in the built in dbt job
 image: assets/images/pic06.jpg
 ---
 
