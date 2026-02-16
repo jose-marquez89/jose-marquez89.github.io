@@ -5,6 +5,8 @@ on: [push]
 jobs: 
   build_and_deploy:
     runs-on: ubuntu-latest
+    container:
+      image: ruby:3.2
     steps:
       - uses: actions/checkout@v1
       - name: Build & Deploy to GitHub Pages
