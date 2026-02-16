@@ -5,10 +5,14 @@ on: [push]
 jobs: 
   build_and_deploy:
     runs-on: ubuntu-latest
-    container: .
+    container:
+      image: ruby:3.2
     steps:
+      - name: Make deploy script executable
+        run: chmod +x ./entrypoint.sh
       - uses: actions/checkout@v1
       - name: Build & Deploy to GitHub Pages
+        run: ./entrypoint.sh
         env: 
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_REPOSITORY: ${{ secrets.GITHUB_REPOSITORY }}
