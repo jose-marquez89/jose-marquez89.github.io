@@ -24,7 +24,7 @@ tiles-count: 6
 socials:
   GitHub: https://github.com/jose-marquez89
   LinkedIn: https://www.linkedin.com/in/jose-marquez
-  
+
 # build settings
 markdown: kramdown
 
@@ -35,4 +35,6 @@ exclude:
 - "*.gemspec"
 - LICENSE.md
 - CONTRIBUTING.md
-- README.md 
+- README.md
+
+destination: ./build
