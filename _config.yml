@@ -1,8 +1,8 @@
 # site settings
-title: Forty
-subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+title: Amplitude Systems
+subtitle: Your Analytics Consultancy
+email: admin@goamplitude.com
+description: Amplitude Systems LLC is a business intelligence, data engineering and software consultancy.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://jose-marquez89.github.io" # the base hostname & protocol for your site
 author:
@@ -23,7 +23,7 @@ tiles-count: 6
 # You need to restart jekyll for changes to have an effect
 socials:
   GitHub: https://github.com/jose-marquez89
-  LinkedIn: https://www.linkedin.com/in/jose-marquez
+  LinkedIn: https://www.linkedin.com/in/jose-marquez89
 
 # build settings
 markdown: kramdown
