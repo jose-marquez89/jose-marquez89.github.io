@@ -1,10 +1,9 @@
 # site settings
 title: Amplitude Systems
-subtitle: Your Analytics Consultancy
 email: admin@goamplitude.com
-description: Unlock the power of your insights
+description: Amplitude Systems is a data consultancy helping businesses build decision-ready reporting systems and supporting infrastructure.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://jose-marquez89.github.io" # the base hostname & protocol for your site
+url: "" # the base hostname & protocol for your site
 author:
 street_address: 5900 Balcones Drive
 city: Austin
@@ -36,5 +35,3 @@ exclude:
 - LICENSE.md
 - CONTRIBUTING.md
 - README.md
-
-destination: ./build
