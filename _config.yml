@@ -1,7 +1,7 @@
 # site settings
 title: Amplitude Systems
 email: admin@goamplitude.com
-description: Amplitude Systems is a data consultancy helping businesses build decision-ready reporting systems and supporting infrastructure.
+description: Amplitude Systems helps businesses build decision-ready reporting systems and supporting infrastructure.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author:
@@ -10,7 +10,7 @@ city: Austin
 state: TX
 zip_code: 78731
 country: United States of America
-phone: (716) 555-5555
+phone: (512) 631-5123
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"

@@ -191,7 +191,7 @@
 			line-height: 2.75em;
 
 			.logo {
-				padding: 0 1em;
+				padding: 0.5em 1em 0.5em;
 			}
 
 			nav {
@@ -223,6 +223,7 @@
 
 		@include breakpoint(xsmall) {
 			.logo {
+				padding: 0.5em 1em 0.5em;
 				span {
 					display: none;
 				}

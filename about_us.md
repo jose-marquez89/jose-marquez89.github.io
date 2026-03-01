@@ -1,7 +1,7 @@
 ---
 layout: post 
 title: About Us 
-description: About the Amplitude Systems Team 
+description: Learn About The Amplitude Systems Team 
 image: assets/images/satellite.jpg
 nav-menu: true
 ---
