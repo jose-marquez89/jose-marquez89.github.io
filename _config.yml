@@ -1,6 +1,6 @@
 # site settings
 title: Amplitude Systems
-email: admin@goamplitude.com
+email: contact@goamplitude.com
 description: Amplitude Systems helps businesses build decision-ready reporting systems and supporting infrastructure.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
